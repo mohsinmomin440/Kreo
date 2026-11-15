@@ -260,7 +260,7 @@ Use `/help` or your server prefix (default `>help`) to browse available commands
 * **Project Creator & Maintainer:** **Mohsinali Momin**
   * 🌐 **GitHub:** [@mohsinmomin440](https://github.com/mohsinmomin440)
   * 📦 **Repository:** [https://github.com/mohsinmomin440/Kreo](https://github.com/mohsinmomin440/Kreo)
-* **AI Pair Programmer:** Claude Code (`anthropic.noreply`)
+* **AI Pair Programmer:** [Claude](https://github.com/claude) (`noreply@anthropic.com`)
 
 ---
 
