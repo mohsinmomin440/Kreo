@@ -25,3 +25,7 @@ The regression suite uses mocked services and local test servers. It does not
 require access to the production bot. The separate check:services script uses
 your configured Discord, MongoDB, and Lavalink services; do not run it with
 credentials you are not authorized to use.
+
+## Community & Pair Programming
+
+This project is authored and maintained by **[Mohsinali Momin](https://github.com/mohsinmomin440)** with AI pair-programming assistance from **[Claude](https://github.com/claude)** (`noreply@anthropic.com`). Pull requests, issue discussions, and noncommercial feature suggestions are warmly welcomed!
